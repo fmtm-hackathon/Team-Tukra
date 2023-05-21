@@ -1,3 +1,8 @@
+
+Prsentation file link:
+https://drive.google.com/drive/folders/1A4_kzrbC5p1BB9vZdgFVwan3_SOAxG6y?usp=sharing
+
+
 1) If the river is present inside the AOI polygon
 
 Spliting area of interest into two polygons by river using postgis:
